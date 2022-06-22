@@ -3,7 +3,7 @@ body{
     border: rgb(11, 155, 233) 5px double;
     margin: 80px;
     padding:10px 20px;
-    background-image: url(images/WP_99_1997-2017-03-11.jpg.jpeg);
+    background-image: url(WP_99_1997-2017-03-11.jpg.jpeg);
     background-size:cover;
     ;
 }
